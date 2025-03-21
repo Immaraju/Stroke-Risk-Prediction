@@ -11,9 +11,8 @@ The project uses the **Heart Disease dataset** from the **UCI Machine Learning R
 - **Jupyter Notebook**
 - **Scikit-learn**
 - **Pandas & NumPy**
-- **Matplotlib & Seaborn**
 
 ## 🚀 Features
 - Data preprocessing and cleaning
 - Model training using **Logistic Regression**
-- Performance evaluation using accuracy and other metrics
+- Performance evaluation using accuracy 
